@@ -52,4 +52,5 @@ def NewFileChecker(directory, rest_time):
             initial_files = current_files
 
 # Enter the directory where you want to check for new files
-NewFileChecker("", 3)
+# Enter the rest_time so that your device doesn't heat up
+NewFileChecker("", )
